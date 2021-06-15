@@ -1,0 +1,2 @@
+rootProject.name = "Değişkenler Ve Veri Tipleri"
+include ':app'
